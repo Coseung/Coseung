@@ -1,0 +1,17 @@
+{
+  "date": "string",
+  "medicines": [
+    {
+      "medicineName": "string",
+      "characteristic": "string",
+      "imageUrl": "string",
+      "prescribed": true,
+      "alarms": [
+        {
+          "alarmTime": "2025-03-23T10:51:09.095Z",
+          "taking": true
+        }
+      ]
+    }
+  ]
+}
