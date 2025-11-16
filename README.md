@@ -69,7 +69,7 @@
 ## 🌍 연결
 [![Gmail](https://img.shields.io/badge/이메일-보내기-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:dreamdpsh@gmail.com)
 <!--[![Notion](https://img.shields.io/badge/포트폴리오-Notion-000000?style=flat-square&logo=Notion&logoColor=white)](노션포트폴리오주소)-->
-[![Velog](https://img.shields.io/badge/블로그-Velog-20C997?style=flat-square&logo=Velog&logoColor=white)]([https://velog.io/@velog아이디](https://velog.io/@dreamdp01/posts))
+[![Velog](https://img.shields.io/badge/블로그-Velog-20C997?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@dreamdp01)
 
 
 <!-- Footer -->
