@@ -55,7 +55,7 @@
 
 ## Coseung Velog
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dreamdp01)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dreamdp01)](https://velog.io/@dreamdp01/posts)
 
 ---
 
