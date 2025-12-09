@@ -1,6 +1,6 @@
 <!-- Header -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=600&pause=1000&color=1A8BF7&width=435&lines=Hi+i'm+Seungho+%F0%9F%98%8A" alt="Typing SVG" /></a>
 ![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Seungho%20Choi&fontAlign=30&fontSize=30&textBg=true&desc=Problem%20Solving%20Developer&descAlign=60&descAlignY=50)
-
 
 ---
 
@@ -57,7 +57,6 @@
   
   <!-- 깃허브 활동 통계 카드 -->
   <img src="https://github-readme-stats.vercel.app/api?username=Coseung&show_icons=true&theme=radical&hide_border=true" height="180px"/>
-
   <!-- 가장 많이 사용한 언어 카드 -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coseung&layout=compact&theme=radical&hide_border=true" height="180px"/>
 
