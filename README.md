@@ -15,6 +15,8 @@
 
 ---
 
+<div align="center">
+
 ## 🧱 Tech Stack
 
 ### 💻 Language
@@ -46,7 +48,7 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=Cursor&logoColor=white"/>
 
-
+</div>
 
 ---
 
