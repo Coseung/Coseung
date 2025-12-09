@@ -50,20 +50,16 @@
 
 ---
 
----
 
-## Coseung GitHub
 <div align="center">
-  
-  <!-- 깃허브 활동 통계 카드 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Coseung&show_icons=true&theme=radical&hide_border=true" height="180px"/>
-  <!-- 가장 많이 사용한 언어 카드 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coseung&layout=compact&theme=radical&hide_border=true" height="180px"/>
+
+## Coseung Velog
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dreamdp01)](https://github.com/eungyeole/velog-readme-stats)
+
+---
 
 </div>
-
----
-
 
 ## 🌍 연결
 [![Gmail](https://img.shields.io/badge/이메일-보내기-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:dreamdpsh@gmail.com)
