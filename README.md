@@ -48,7 +48,10 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=Cursor&logoColor=white"/>
 
+![](https://yusufozturk.vercel.app/api?username=Coseung&hide_title=true&include_all_commits=true&count_private=true&show_icons=true) ![](https://yusufozturk.vercel.app/api/top-langs/?username=Coseung&layout=compact&langs_count=10&hide=html,python,css)
 </div>
+
+
 
 ---
 
@@ -60,6 +63,7 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dreamdp01)](https://velog.io/@dreamdp01/posts)
 
 ---
+
 
 </div>
 
