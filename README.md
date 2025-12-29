@@ -1,8 +1,5 @@
 <!-- Header -->
-<div align="center">
 
-![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Seungho%20Choi&fontAlign=30&fontSize=30&textBg=true&desc=Problem%20Solving%20Developer&descAlign=60&descAlignY=50)
-</div>
 
 ---
 
