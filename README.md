@@ -68,6 +68,7 @@
 ## 🌍 연결
 [![Gmail](https://img.shields.io/badge/이메일-보내기-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:dreamdpsh@gmail.com) [![Velog](https://img.shields.io/badge/블로그-Velog-20C997?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@dreamdp01)
 <!--[![Notion](https://img.shields.io/badge/포트폴리오-Notion-000000?style=flat-square&logo=Notion&logoColor=white)](노션포트폴리오주소)-->
+<!--노션 포폴 진행중 80% 프로젝트 하나 더 추가해서 작성할 예정-->
 
 
 <div align="center">
